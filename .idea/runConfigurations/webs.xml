@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="webs" type="NodeJSConfigurationType" singleton="false" working-dir="$PROJECT_DIR$">
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser start="true" with-js-debugger="true" url="http://localhost:63343/webs/resources/pages/login.html" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>
